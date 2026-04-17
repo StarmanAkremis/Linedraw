@@ -10,4 +10,6 @@ Because i had no other idea.
 first you need to download the header file: https://github.com/GoldenStarGamer/Linedraw/blob/87bde4a7ec36eb0af801905f01198d7c983b12ea/GSLinedraw/Linedraw.h  
 then you need to include the header. create an object: `Linedraw linedrawer;`, replacing "linedrawer" with any keyword of your choosing.  
 then just use `linedrawer.Dir(<point1 x>,<point1 y>,\<point2 x>,\<point2 y>);` and it will return the distance.
-# Propper Docummentation soon
+# Propper Docummentation never
+# 3 Years Later
+This sucks, why the hell is a simple function in a class? There's nothing to store dude, you don't need a class.
